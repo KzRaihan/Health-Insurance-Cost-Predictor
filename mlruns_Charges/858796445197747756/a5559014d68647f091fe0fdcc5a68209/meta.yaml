@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/Project/Health-Insurance-Cost-Predictor/mlruns_Charges/858796445197747756/a5559014d68647f091fe0fdcc5a68209/artifacts
+end_time: 1768754816960
+entry_point_name: ''
+experiment_id: '858796445197747756'
+lifecycle_stage: active
+run_id: a5559014d68647f091fe0fdcc5a68209
+run_name: model_final_gb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768754816593
+status: 3
+tags: []
+user_id: KzRaihan
