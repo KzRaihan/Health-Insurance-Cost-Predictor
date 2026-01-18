@@ -2,7 +2,11 @@
 
 **Predicting individual medical insurance charges using machine learning**
 
-![ML Project](https://upload.wikimedia.org/wikipedia/commons/4/4c/ML_logo.png)
+
+<h1 align="center"> 🏥 Health Insurance Cost Predictor </h1>
+
+
+![ML Project](Health Insurance Cost Predictor "Health Insurance Cost Predictor")
 
 ### 📋 Project Overview
 
