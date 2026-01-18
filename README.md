@@ -6,7 +6,10 @@
 <h1 align="center"> 🏥 Health Insurance Cost Predictor </h1>
 
 
-![ML Project](Health Insurance Cost Predictor "Health Insurance Cost Predictor")
+<p align="center">
+  <img src="https://drive.google.com/file/d/1JGxDFeswy5fgYpZzS13CkkYxz3Iq4sTy/view" alt="Banner" width="100%" height="250">
+</p>
+
 
 ### 📋 Project Overview
 
