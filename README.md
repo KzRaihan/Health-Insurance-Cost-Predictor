@@ -6,9 +6,12 @@
 <h1 align="center"> 🏥 Health Insurance Cost Predictor </h1>
 
 
+
 <p align="center">
-  <img src="https://drive.google.com/file/d/1JGxDFeswy5fgYpZzS13CkkYxz3Iq4sTy/view" alt="Banner" width="100%" height="250">
+  <img src="https://drive.google.com/uc?export=view&id=14CntXRre-iLbX35bRPSE9qvsXopw3gck" 
+       alt="Banner Image" width="100%" height="250">
 </p>
+
 
 
 ### 📋 Project Overview
