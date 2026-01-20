@@ -1,0 +1,2 @@
+Age,Gender,BMI,Number of Children,Smoker Status,Residential Area (US),output,timestamp
+24,male,40.5,2,no,southeast,"✅ Predicted Health Insurance Cost: $6,164.15",2026-01-20 18:35:46.989104

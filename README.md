@@ -2,17 +2,12 @@
 
 **Predicting individual medical insurance charges using machine learning**
 
-
 <h1 align="center"> 🏥 Health Insurance Cost Predictor </h1>
-
-
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=14CntXRre-iLbX35bRPSE9qvsXopw3gck" 
        alt="Banner Image" width="100%" height="100%">
 </p>
-
-
 
 ### 📋 Project Overview
 
@@ -51,11 +46,10 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 - **Core libraries**:
   - pandas · numpy
   - scikit-learn
-  - xgboost / lightgbm (optional)
   - ydata-profiling
   - matplotlib · seaborn
-- **Model selection & tuning**: GridSearchCV / RandomizedSearchCV / Optuna (recommended)
-- **Environment management**: conda / venv
+- **Model selection & tuning**: GridSearchCV / RandomizedSearchCV
+- **Environment management**: conda / myenv
 
 ### 📊 Models Implemented & Compared
 
@@ -83,24 +77,24 @@ Best overall model : **Gradient Boosting Regressor**
 
 Health-Insurance-Cost-Predictor/
 │
-├── app.py
+├── app.py                          # Gradio web application
 ├── model/
-│   └── insurance_gb_pipeline.pkl
+│   └── insurance_gb_pipeline.pkl   # Trained Gradient Boosting pipeline
 │
 ├── src/
 │   ├── __init__.py
-│   ├── preprocessing.py
-│   ├── train.py
-│   └── evaluate.py
+│   ├── preprocessing.py            #  Data preprocessing logic
+│   ├── train.py                           #  Model training script
+│   └── evaluate.py                    #  Model evaluation utilities
 │
 ├── notebooks/
 │   ├── 01_EDA_and_Preprocessing.ipynb
 │   ├── 02_Model_Comparison.ipynb
 │   └── 03_Hyperparameter_Tuning.ipynb
 │
-├── requirements.txt
-├── README.md
-├── .gitignore
+├── requirements.txt                #  Project dependencies
+├── README.md                    #  Project documentation
+└── .gitignore                           #  Git ignore rules
 
 ### 🧪 How to Run Locally
 
